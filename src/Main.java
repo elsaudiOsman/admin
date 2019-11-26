@@ -19,6 +19,6 @@ public class Main {
         }
         else result = "Incorrect input";
         System.out.println(result);
-        Utils.closeStream();
+        Utils.closeStream();/////ttttt
     }
 }
