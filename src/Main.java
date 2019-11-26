@@ -1,6 +1,9 @@
 
 public class Main {
-
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         ConsoleApp consoleApp = new ConsoleApp();
         System.out.println("For sign in enter 1 \n For sign up enter 2");
